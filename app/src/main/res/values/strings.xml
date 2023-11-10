@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+    <string name="app_name">ivan_s_application</string>
+    <string name="loading">Loading…</string>
+    <string name="no_internet_connection">No internet connection!</string>
+<string name="msg">Тестовий текс\u2028Тестовий текс\u2028Тестовий текс\u2028Тестовий текс\u2028Тестовий текс\u2028Тестовий текс</string>
+<string name="msg3">Палітра кольорів</string>
+<string name="msg2">Підключення успішне</string>
+<string name="lbl_1">\u201c1-Колір\u201d</string>
+<string name="lbl_10">10%</string>
+<string name="lbl4">РЕЖИМИ
+</string>
+<string name="lbl5">\u201cДень-Ніч\u201d</string>
+<string name="lbl2">Освітлення</string>
+<string name="lbl3">Підключення</string>
+<string name="lbl8">Додати колір </string>
+<string name="lbl9">Яскравість </string>
+<string name="lbl6">\u201cВеселка\u201d</string>
+<string name="lbl7">Активний колір</string>
+<string name="lbl10">Включити</string>
+<string name="lbl">Головна</string>
+</resources>
